@@ -1,3 +1,3 @@
 # Repositório Teste
 
-Esse é um repositório teste para a disciplina do Projeto integrador do curso de Informática 2021
+Esse é um repositório teste para a disciplina do Projeto integrador do curso de Informática 2021 do campus João Câmara/IFRN

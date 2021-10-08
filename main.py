@@ -1,6 +1,6 @@
 def some(x,y):
 	return x+y
 
-print( 'ola mundo')
+print( 'Olá mundo!')
 
 print(some(2,3))
